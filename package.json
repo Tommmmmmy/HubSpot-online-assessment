@@ -1,0 +1,17 @@
+{
+  "name": "maoming",
+  "version": "1.0.0",
+  "description": "HubSpot Online Assessment",
+  "main": "hubspot.js",
+  "dependencies": {
+    "fastpriorityqueue": "^0.3.1",
+    "hashmap": "^2.3.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
